@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/C-Sar/static/css/main.2653cef1.css",
+    "main.js": "/C-Sar/static/js/main.ea832515.js",
+    "index.html": "/C-Sar/index.html",
+    "main.2653cef1.css.map": "/C-Sar/static/css/main.2653cef1.css.map",
+    "main.ea832515.js.map": "/C-Sar/static/js/main.ea832515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2653cef1.css",
+    "static/js/main.ea832515.js"
+  ]
+}
